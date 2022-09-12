@@ -23,5 +23,5 @@ This Machine Learning Project consists of the following sections-
 - Testing the model on test data
 - Using Model
 
-Linear Regressor, Decision Tree Regressor and  Random Forest Regressor models are tried in this Machine Learning Project. Random Forest Regressor gave the best Optimal solution for the model. Results from all three Regressors are mentioned in the txt file named Naruto.
+Linear Regressor, Decision Tree Regressor and  Random Forest Regressor models are tried in this Machine Learning Project. Random Forest Regressor gave the best Optimal solution for the model. Results from all three Regressors are mentioned in the txt file named Different_models_results.
 Finally, Launched the model with Random Forest Regressor.
