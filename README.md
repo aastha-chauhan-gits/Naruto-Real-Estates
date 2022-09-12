@@ -1,7 +1,7 @@
 # Naruto Real Estates
  Creating a Machine Learning Model to provide optimal predictions/solution to Naruto Real Estates
 
-The Experts of "Naruto Real Estates" are not able to make optimal predictions for the Company and due to wrong manual predictions Company getting loss day by day.
+The Experts of "Naruto Real Estates" are not able to make optimal predictions for the Company and due to wrong manual predictions Company is getting loss day by day.
 So, we have to make a Machine Learning Model to get Optimal solution, recover Naruto real Estates company from loss and help company to make profit.
 
 In this ML Project Model to predict Optimal Price for houses. Different Field data is used given in the data.csv. 
@@ -16,8 +16,8 @@ This Machine Learning Project consists of the following sections-
 - Trying out Attribute combinations
 - Missing Attributes
 - Creating a Pipeline
-- Selecting a Desired model for dragon Real Estates
-- Evaluating tha Model
+- Selecting a Desired model for Naruto Real Estates
+- Evaluating the Model
 - Using better evaluation technique - Cross Validation
 - Saving the Model
 - Testing the model on test data
